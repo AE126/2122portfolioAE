@@ -52,3 +52,14 @@ body {
 	text-align: center;
 	color: black;
 }
+}
+
+a:link {
+     color: #FFFFFF;
+}
+a:visited {
+     color: #F58222;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: bold;
+}
